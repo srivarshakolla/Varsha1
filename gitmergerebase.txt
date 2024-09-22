@@ -1,6 +1,9 @@
 git rebase
 
 gitrebase2
+<<<<<<< HEAD
 git rebase goutham
 
 git write vim editor
+=======
+>>>>>>> 88e26583a5a12f10f0b1d186b0495514428540f3
